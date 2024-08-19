@@ -21,6 +21,7 @@ This project implements a secure and robust user registration system with email 
 
 ## Project Structure
 The project follows a layered architecture:
+![Complete User Login and Registration Backend + Email Verification](https://github.com/user-attachments/assets/690fc0a4-0a24-4be6-814a-65e0ce8be788)
 
 - **Model**: Defines the data structure (e.g., User, Role).
 - **Repository**: Handles data access logic and interactions with the database.
